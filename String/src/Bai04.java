@@ -20,6 +20,6 @@ public class Bai04 {
 			}
 		}
 		System.out.println("Tu dai nhat la: " + tuDN);
-		System.out.println("Nam o vi tri: " + viTri);
+		System.out.println("Nam o vi tri: " + viTri + 1);
 	}
 }
